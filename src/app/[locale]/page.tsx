@@ -1,6 +1,7 @@
 import Header from '@/components/Header';
 import Hero from '@/components/HeroSection';
 import ImagesGallery from '@/components/ImagesGallery';
+import NewInSection from '@/components/Features/newInSection';
 export default function HomePage() {
   return (
     <>
@@ -8,9 +9,8 @@ export default function HomePage() {
         <Header />
         <Hero />
       </div>
-      <div>
-          <ImagesGallery />
-      </div>
+        <ImagesGallery />
+        <NewInSection />
     </>
   );
 }

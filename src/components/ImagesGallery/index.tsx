@@ -6,7 +6,6 @@ export default function ImagesGallery() {
     { src: "/images/hijabi1.jpg", title: "Hijabi Outfit 1" },
     { src: "/images/hijabi2.jpg", title: "Hijabi Outfit 2" },
     { src: "/images/hijabi3.jpg", title: "Hijabi Outfit 3" },
-    { src: "/images/hijabi4.jpg", title: "Hijabi Outfit 4" },
   ];
 
 return(
